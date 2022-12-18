@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hinata.Cli", "Hinata.Cli\Hinata.Cli.csproj", "{0D20F41E-F207-4AFC-A968-BC4CCE374D17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hinata.Core", "Hinata.Core\Hinata.Core.csproj", "{C5AFF294-2932-479A-99FB-9D2A4016ECE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hinata.Gui", "Hinata.Gui\Hinata.Gui.csproj", "{CAF17476-187F-45D8-8414-48A3167A7600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D20F41E-F207-4AFC-A968-BC4CCE374D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D20F41E-F207-4AFC-A968-BC4CCE374D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D20F41E-F207-4AFC-A968-BC4CCE374D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D20F41E-F207-4AFC-A968-BC4CCE374D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5AFF294-2932-479A-99FB-9D2A4016ECE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AFF294-2932-479A-99FB-9D2A4016ECE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AFF294-2932-479A-99FB-9D2A4016ECE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AFF294-2932-479A-99FB-9D2A4016ECE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAF17476-187F-45D8-8414-48A3167A7600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF17476-187F-45D8-8414-48A3167A7600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF17476-187F-45D8-8414-48A3167A7600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF17476-187F-45D8-8414-48A3167A7600}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
